@@ -1,0 +1,462 @@
+[
+    [
+        {
+            "title": "The incongruent gelatinase genotype and phenotype in Enterococcus faecalis are due to shutting off the ability to respond to the gelatinase biosynthesis-activating pheromone (GBAP) quorum-sensing signal",
+            "volume": "158",
+            "ISSN": "1465-2080",
+            "url": "http://dx.doi.org/10.1099/mic.0.055574-0",
+            "number": "2",
+            "journal": "Microbiology",
+            "publisher": "Microbiology Society",
+            "author": "Teixeira, Neuza and Santos, Sofia and Marujo, Paulo and Yokohata, Ryoji and Iyer, Vijayalakshmi S. and Nakayama, Jiro and Hancock, Lynn E. and Serror, Pascale and Silva Lopes, Maria de F\u00e1tima",
+            "year": "2012",
+            "pages": "519\u2013528"
+        }
+    ],
+    [
+        {
+            "title": "Quantitative proteomic analysis of ibuprofen-degrading Patulibacter sp. strain I11",
+            "volume": "24",
+            "ISSN": "1572-9729",
+            "url": "http://dx.doi.org/10.1007/s10532-012-9610-5",
+            "number": "5",
+            "journal": "Biodegradation",
+            "publisher": "Springer Science and Business Media LLC",
+            "author": "Almeida, B. and Kjeldal, H. and Lolas, I. and Knudsen, A. D. and Carvalho, G. and Nielsen, K. L. and Barreto Crespo, M. T. and Stensballe, A. and Nielsen, J. L.",
+            "year": "2012",
+            "pages": "615\u2013630"
+        }
+    ],
+    [
+        {
+            "title": "Downstream Processing of Lentiviral Vectors: Releasing Bottlenecks",
+            "volume": "23",
+            "ISSN": "1946-6544",
+            "url": "http://dx.doi.org/10.1089/hgtb.2012.059",
+            "number": "4",
+            "journal": "Human Gene Therapy Methods",
+            "publisher": "Mary Ann Liebert Inc",
+            "author": "Bandeira, Vanessa and Peixoto, Cristina and Rodrigues, Ana F. and Cruz, Pedro E. and Alves, Paula M. and Coroadinha, Ana S. and Carrondo, Manuel J. T.",
+            "year": "2012",
+            "pages": "255\u2013263"
+        }
+    ],
+    [
+        {
+            "title": "Energy Landscapes of Dynamic Ensembles of Rolling Triplet Repeat Bulge Loops: Implications for DNA Expansion Associated with Disease States",
+            "volume": "134",
+            "ISSN": "1520-5126",
+            "url": "http://dx.doi.org/10.1021/ja3010896",
+            "number": "13",
+            "journal": "Journal of the American Chemical Society",
+            "publisher": "American Chemical Society (ACS)",
+            "author": "V\u00f6lker, Jens and Gindikin, Vera and Klump, Horst H. and Plum, G. Eric and Breslauer, Kenneth J.",
+            "year": "2012",
+            "pages": "6033\u20136044"
+        }
+    ],
+    [
+        {
+            "title": "Metabolic signatures of GS\u2010CHO cell clones associated with butyrate treatment and culture phase transition",
+            "volume": "110",
+            "ISSN": "1097-0290",
+            "url": "http://dx.doi.org/10.1002/bit.24983",
+            "number": "12",
+            "journal": "Biotechnology and Bioengineering",
+            "publisher": "Wiley",
+            "author": "Carinhas, Nuno and Duarte, Tiago M. and Barreiro, Laura C. and Carrondo, Manuel J. T. and Alves, Paula M. and Teixeira, Ana P.",
+            "year": "2013",
+            "pages": "3244\u20133257"
+        }
+    ],
+    [
+        {
+            "title": "Proteomic analyses of Ehrlichia ruminantium highlight differential expression of MAP1-family proteins",
+            "volume": "156",
+            "ISSN": "0378-1135",
+            "url": "http://dx.doi.org/10.1016/j.vetmic.2011.11.022",
+            "number": "3\u20134",
+            "journal": "Veterinary Microbiology",
+            "publisher": "Elsevier BV",
+            "author": "Marcelino, Isabel and de Almeida, Andr\u00e9 Martinho and Brito, Catarina and Meyer, Damien F. and Barreto, M\u00f3nica and Sheikboudou, Christian and Franco, Catarina F. and Martinez, Dominique and Lefran\u00e7ois, Thierry and Vachi\u00e9ry, Nathalie and Carrondo, Manuel J.T. and Coelho, Ana Varela and Alves, Paula M.",
+            "year": "2012",
+            "pages": "305\u2013314"
+        }
+    ],
+    [
+        {
+            "title": "Thymus mastichina: Chemical Constituents and their Anti-Cancer Activity",
+            "volume": "7",
+            "ISSN": "1555-9475",
+            "url": "http://dx.doi.org/10.1177/1934578x1200701120",
+            "number": "11",
+            "journal": "Natural Product Communications",
+            "publisher": "SAGE Publications",
+            "author": "Gordo, Joana and M\u00e1ximo, Patr\u00edcia and Cabrita, Eurico and Louren\u00e7o, Ana and Oliva, Abel and Almeida, Joana and Filipe, Mariana and Cruz, Pedro and Barcia, Rita and Santos, Miguel and Cruz, Helder",
+            "year": "2012",
+            "pages": "1934578X1200701"
+        }
+    ],
+    [
+        {
+            "title": "DNA meter: Energy tunable, quantitative hybridization assay",
+            "volume": "99",
+            "ISSN": "1097-0282",
+            "url": "http://dx.doi.org/10.1002/bip.22213",
+            "number": "6",
+            "journal": "Biopolymers",
+            "publisher": "Wiley",
+            "author": "Braunlin, William and V\u00f6lker, Jens and Plum, G. Eric and Breslauer, Kenneth J.",
+            "year": "2013",
+            "pages": "408\u2013417"
+        }
+    ],
+    [
+        {
+            "title": "Carbon Monoxide Targeting Mitochondria",
+            "volume": "2012",
+            "ISSN": "2090-2255",
+            "url": "http://dx.doi.org/10.1155/2012/749845",
+            "journal": "Biochemistry Research International",
+            "publisher": "Hindawi Limited",
+            "author": "Queiroga, Cl\u00e1udia S. F. and Almeida, Ana S. and Vieira, Helena L. A.",
+            "year": "2012",
+            "pages": "1\u20139"
+        }
+    ],
+    [
+        {
+            "title": "Water stress and recovery in the performance of two Eucalyptus globulus clones: physiological and biochemical profiles",
+            "volume": "150",
+            "ISSN": "1399-3054",
+            "url": "http://dx.doi.org/10.1111/ppl.12110",
+            "number": "4",
+            "journal": "Physiologia Plantarum",
+            "publisher": "Wiley",
+            "author": "Correia, Barbara and Pint\u00f3\u2010Marijuan, Marta and Neves, Lucinda and Brossa, Ricard and Dias, Maria Celeste and Costa, Armando and Castro, Bruno B. and Ara\u00fajo, Clara and Santos, Concei\u00e7\u00e3o and Chaves, Maria Manuela and Pinto, Gl\u00f3ria",
+            "year": "2013",
+            "pages": "580\u2013592"
+        }
+    ],
+    [
+        {
+            "title": "Step-by-step strategy for protein enrichment and proteome characterisation of extracellular polymeric substances in wastewater treatment systems",
+            "volume": "95",
+            "ISSN": "1432-0614",
+            "url": "http://dx.doi.org/10.1007/s00253-012-4157-2",
+            "number": "3",
+            "journal": "Applied Microbiology and Biotechnology",
+            "publisher": "Springer Science and Business Media LLC",
+            "author": "Silva, Ana F. and Carvalho, Gilda and Soares, Renata and Coelho, Ana V. and Barreto Crespo, M. Teresa",
+            "year": "2012",
+            "pages": "767\u2013776"
+        }
+    ],
+    [
+        {
+            "title": "Cold acclimation and floral development in almond bud break: insights into the regulatory pathways",
+            "volume": "63",
+            "ISSN": "0022-0957",
+            "url": "http://dx.doi.org/10.1093/jxb/ers144",
+            "number": "12",
+            "journal": "Journal of Experimental Botany",
+            "publisher": "Oxford University Press (OUP)",
+            "author": "Barros, Pedro M and Gon\u00e7alves, Nuno and Saibo, Nelson J.M. and Oliveira, M. Margarida",
+            "year": "2012",
+            "pages": "4585\u20134596"
+        }
+    ],
+    [
+        {
+            "title": "Free chlorine inactivation of fungi in drinking water sources",
+            "volume": "47",
+            "ISSN": "0043-1354",
+            "url": "http://dx.doi.org/10.1016/j.watres.2012.09.052",
+            "number": "2",
+            "journal": "Water Research",
+            "publisher": "Elsevier BV",
+            "author": "Pereira, V.J. and Marques, R. and Marques, M. and Benoliel, M.J. and Barreto Crespo, M.T.",
+            "year": "2013",
+            "pages": "517\u2013523"
+        }
+    ],
+    [
+        {
+            "title": "Impact of bulge loop size on DNA triplet repeat domains: Implications for DNA repair and expansion",
+            "volume": "101",
+            "ISSN": "1097-0282",
+            "url": "http://dx.doi.org/10.1002/bip.22236",
+            "number": "1",
+            "journal": "Biopolymers",
+            "publisher": "Wiley",
+            "author": "V\u00f6lker, Jens and Plum, G. Eric and Gindikin, Vera and Klump, Horst H. and Breslauer, Kenneth J.",
+            "year": "2013",
+            "pages": "1\u201312"
+        }
+    ],
+    [
+        {
+            "title": "Electroosmotic flow modulation in capillary electrophoresis by organic cations from ionic liquids",
+            "volume": "33",
+            "ISSN": "1522-2683",
+            "url": "http://dx.doi.org/10.1002/elps.201100486",
+            "number": "7",
+            "journal": "ELECTROPHORESIS",
+            "publisher": "Wiley",
+            "author": "Mendes, Ac\u00e1cio and Branco, Lu\u00eds C. and Morais, Cristiana and Simpl\u00edcio, Ana Lu\u00edsa",
+            "year": "2012",
+            "pages": "1182\u20131190"
+        }
+    ],
+    [
+        {
+            "title": "Adaptation of retrovirus producer cells to serum deprivation: Implications in lipid biosynthesis and vector production",
+            "volume": "109",
+            "ISSN": "1097-0290",
+            "url": "http://dx.doi.org/10.1002/bit.24410",
+            "number": "5",
+            "journal": "Biotechnology and Bioengineering",
+            "publisher": "Wiley",
+            "author": "Rodrigues, A.F. and Amaral, A.I. and Ver\u00edssimo, V. and Alves, P.M. and Coroadinha, A.S.",
+            "year": "2012",
+            "pages": "1269\u20131279"
+        }
+    ],
+    [
+        {
+            "title": "De novo assembly of maritime pine transcriptome: implications for forest breeding and biotechnology",
+            "volume": "12",
+            "ISSN": "1467-7652",
+            "url": "http://dx.doi.org/10.1111/pbi.12136",
+            "number": "3",
+            "journal": "Plant Biotechnology Journal",
+            "publisher": "Wiley",
+            "author": "Canales, Javier and Bautista, Rocio and Label, Philippe and G\u00f3mez\u2010Maldonado, Josefa and Lesur, Isabelle and Fern\u00e1ndez\u2010Pozo, Noe and Rueda\u2010L\u00f3pez, Marina and Guerrero\u2010Fern\u00e1ndez, Dario and Castro\u2010Rodr\u00edguez, Vanessa and Benzekri, Hicham and Ca\u00f1as, Rafael A. and Guevara, Mar\u00eda\u2010Angeles and Rodrigues, Andreia and Seoane, Pedro and Teyssier, Caroline and Morel, Alexandre and Ehrenmann, Fran\u00e7ois and Le Provost, Gr\u00e9goire and Lalanne, C\u00e9line and Noirot, C\u00e9line and Klopp, Christophe and Reymond, Isabelle and Garc\u00eda\u2010Guti\u00e9rrez, Angel and Trontin, Jean\u2010Fran\u00e7ois and Lelu\u2010Walter, Marie\u2010Anne and Miguel, Celia and Cervera, Mar\u00eda Teresa and Cant\u00f3n, Francisco R. and Plomion, Christophe and Harvengt, Luc and Avila, Concepci\u00f3n and Gonzalo Claros, M. and C\u00e1novas, Francisco M.",
+            "year": "2013",
+            "pages": "286\u2013299"
+        }
+    ],
+    [
+        {
+            "title": "How can measurement, monitoring, modeling and control advance cell culture in industrial biotechnology?",
+            "volume": "7",
+            "ISSN": "1860-7314",
+            "url": "http://dx.doi.org/10.1002/biot.201200226",
+            "number": "12",
+            "journal": "Biotechnology Journal",
+            "publisher": "Wiley",
+            "author": "Carrondo, Manuel J. T. and Alves, Paula M. and Carinhas, Nuno and Glassey, Jarka and Hesse, Friedemann and Merten, Otto\u2010Wilhelm and Micheletti, Martina and Noll, Thomas and Oliveira, Rui and Reichl, Udo and Staby, Arne and Teixeira, Ana P. and Weichert, Henry and Mandenius, Carl\u2010Fredrik",
+            "year": "2012",
+            "pages": "1522\u20131529"
+        }
+    ],
+    [
+        {
+            "title": "Patulibacter medicamentivorans sp. nov., isolated from activated sludge of a wastewater treatment plant",
+            "volume": "63",
+            "ISSN": "1466-5034",
+            "url": "http://dx.doi.org/10.1099/ijs.0.047522-0",
+            "number": "Pt_7",
+            "journal": "International Journal of Systematic and Evolutionary Microbiology",
+            "publisher": "Microbiology Society",
+            "author": "Almeida, B\u00e1rbara and Vaz-Moreira, Ivone and Schumann, Peter and Nunes, Olga C. and Carvalho, Gilda and Crespo, Maria T. Barreto",
+            "year": "2013",
+            "pages": "2588\u20132593"
+        }
+    ],
+    [
+        {
+            "title": "A liquid chromatography/electrospray ionisation tandem mass spectrometry method for the simultaneous quantification of salicylic, jasmonic and abscisic acids in Coffea arabica\n leaves: LC/ESI-MS/MS for simultaneous quantification of SA, JA and ABA in coffee leaves",
+            "volume": "94",
+            "ISSN": "0022-5142",
+            "url": "http://dx.doi.org/10.1002/jsfa.6288",
+            "number": "3",
+            "journal": "Journal of the Science of Food and Agriculture",
+            "publisher": "Wiley",
+            "author": "de S\u00e1, Marta and Ferreira, Jo\u00e3o P and Queiroz, Vagner T and Vilas-Boas, Lu\u00eds and Silva, Maria C and Almeida, Maria H and Guerra-Guimar\u00e3es, Leonor and Bronze, Maria R",
+            "year": "2013",
+            "pages": "529\u2013536"
+        }
+    ],
+    [
+        {
+            "title": "Genetic Diversity and Population Structure in a European Collection of Rice",
+            "volume": "52",
+            "ISSN": "1435-0653",
+            "url": "http://dx.doi.org/10.2135/cropsci2011.11.0588",
+            "number": "4",
+            "journal": "Crop Science",
+            "publisher": "Wiley",
+            "author": "Courtois, Brigitte and Frouin, Julien and Greco, Raffaella and Bruschi, Gianluca and Droc, Ga\u00ebtan and Hamelin, Chantal and Ruiz, Manuel and Cl\u00e9ment, Guy and Evrard, Jean\u2010Charles and van Coppenole, Sylvie and Katsantonis, Dimitrios and Oliveira, Margarida and Negr\u00e3o, S\u00f3nia and Matos, Celina and Cavigiolo, Stefano and Lupotto, Elisabetta and Piffanelli, Pietro and Ahmadi, Nourollah",
+            "year": "2012",
+            "pages": "1663\u20131675"
+        }
+    ],
+    [
+        {
+            "title": "Link between microbial composition and carbon substrate-uptake preferences in a PHA-storing community",
+            "volume": "7",
+            "ISSN": "1751-7370",
+            "url": "http://dx.doi.org/10.1038/ismej.2012.74",
+            "number": "1",
+            "journal": "The ISME Journal",
+            "publisher": "Oxford University Press (OUP)",
+            "author": "Albuquerque, Maria G E and Carvalho, Gilda and Kragelund, Caroline and Silva, Ana F and Barreto Crespo, Maria T and Reis, Maria A M and Nielsen, Per H",
+            "year": "2012",
+            "pages": "1\u201312"
+        }
+    ],
+    [
+        {
+            "title": "RNA fingerprinting analysis of Oenococcus oeni strains under wine conditions",
+            "volume": "31",
+            "ISSN": "0740-0020",
+            "url": "http://dx.doi.org/10.1016/j.fm.2012.02.006",
+            "number": "2",
+            "journal": "Food Microbiology",
+            "publisher": "Elsevier BV",
+            "author": "Marques, Ana Paula and San Rom\u00e3o, Maria Vit\u00f3ria and Tenreiro, Rog\u00e9rio",
+            "year": "2012",
+            "pages": "238\u2013245"
+        }
+    ],
+    [
+        {
+            "title": "Phage Endolysins with Broad Antimicrobial Activity AgainstEnterococcus faecalisClinical Strains",
+            "volume": "18",
+            "ISSN": "1931-8448",
+            "url": "http://dx.doi.org/10.1089/mdr.2012.0024",
+            "number": "3",
+            "journal": "Microbial Drug Resistance",
+            "publisher": "Mary Ann Liebert Inc",
+            "author": "Proen\u00e7a, Daniela and Fernandes, Sofia and Leandro, Clara and Silva, Filipa Antunes and Santos, Sofia and Lopes, F\u00e1tima and Mato, Rosario and Cavaco-Silva, Patr\u00edcia and Pimentel, Madalena and S\u00e3o-Jos\u00e9, Carlos",
+            "year": "2012",
+            "pages": "322\u2013332"
+        }
+    ],
+    [
+        {
+            "title": "EfaR Is a Major Regulator of Enterococcus faecalis Manganese Transporters and Influences Processes Involved in Host Colonization and Infection",
+            "volume": "81",
+            "ISSN": "1098-5522",
+            "url": "http://dx.doi.org/10.1128/iai.06377-11",
+            "number": "3",
+            "journal": "Infection and Immunity",
+            "publisher": "American Society for Microbiology",
+            "author": "Abrantes, M. C. and Kok, J. and Lopes, M. de F.",
+            "year": "2013",
+            "pages": "935\u2013944"
+        }
+    ],
+    [
+        {
+            "title": "CanAnaplasma ovisin Small Ruminants be Neglected any Longer?",
+            "volume": "60",
+            "ISSN": "1865-1674",
+            "url": "http://dx.doi.org/10.1111/tbed.12149",
+            "journal": "Transboundary and Emerging Diseases",
+            "publisher": "Wiley",
+            "author": "Renneker, S. and Abdo, J. and Salih, D. E. A. and Karagen\u00e7, T. and Bilgi\u00e7, H. and Torina, A. and Oliva, A. G. and Campos, J. and Kullmann, B. and Ahmed, J. and Seitzer, U.",
+            "year": "2013",
+            "pages": "105\u2013112"
+        }
+    ],
+    [
+        {
+            "title": "Surface\u2010based cryopreservation strategies for human embryonic stem cells: A comparative study",
+            "volume": "28",
+            "ISSN": "1520-6033",
+            "url": "http://dx.doi.org/10.1002/btpr.1572",
+            "number": "4",
+            "journal": "Biotechnology Progress",
+            "publisher": "Wiley",
+            "author": "Malpique, Rita and Tost\u00f5es, Rui and Beier, Axel F. J. and Serra, Margarida and Brito, Catarina and Schulz, Julia C. and Bj\u00f6rquist, Petter and Zimmermann, Heiko and Alves, Paula M.",
+            "year": "2012",
+            "pages": "1079\u20131087"
+        }
+    ],
+    [
+        {
+            "title": "Correction: Dense CO2 as a Solute, Co-solute or Co-solvent in Particle Formation Processes: A Review. Materials 2011, 4, 2017-2041.",
+            "volume": "5",
+            "ISSN": "1996-1944",
+            "url": "http://dx.doi.org/10.3390/ma5061114",
+            "number": "6",
+            "journal": "Materials",
+            "publisher": "MDPI AG",
+            "author": "Nunes, Ana V.M. and Duarte, Catarina M.M.",
+            "year": "2012",
+            "pages": "1114\u20131114"
+        }
+    ],
+    [
+        {
+            "title": "New allelic variants found in key rice salt\u2010tolerance genes: an association study",
+            "volume": "11",
+            "ISSN": "1467-7652",
+            "url": "http://dx.doi.org/10.1111/pbi.12010",
+            "number": "1",
+            "journal": "Plant Biotechnology Journal",
+            "publisher": "Wiley",
+            "author": "Negr\u00e3o, S\u00f3nia and Cec\u00edlia Almadanim, M. and Pires, In\u00eas S. and Abreu, Isabel A. and Maroco, Jo\u00e3o and Courtois, Brigitte and Gregorio, Glenn B. and McNally, Kenneth L. and Margarida Oliveira, M.",
+            "year": "2012",
+            "pages": "87\u2013100"
+        }
+    ],
+    [
+        {
+            "title": "Tick-borne diseases in cattle: Applications of proteomics to develop new generation vaccines",
+            "volume": "75",
+            "ISSN": "1874-3919",
+            "url": "http://dx.doi.org/10.1016/j.jprot.2012.03.026",
+            "number": "14",
+            "journal": "Journal of Proteomics",
+            "publisher": "Elsevier BV",
+            "author": "Marcelino, Isabel and de Almeida, Andr\u00e9 Martinho and Ventosa, Miguel and Pruneau, Ludovic and Meyer, Damien F. and Martinez, Dominique and Lefran\u00e7ois, Thierry and Vachi\u00e9ry, Nathalie and Coelho, Ana Varela",
+            "year": "2012",
+            "pages": "4232\u20134250"
+        }
+    ],
+    [
+        {
+            "title": "Erratum: \u201cImpact of bulge loop size on DNA triplet repeat domains: Implications for DNA repair and expansion\u201d Biopolymers 101(1), 1\u201312, (2014)",
+            "volume": "101",
+            "ISSN": "1097-0282",
+            "url": "http://dx.doi.org/10.1002/bip.22451",
+            "number": "4",
+            "journal": "Biopolymers",
+            "publisher": "Wiley",
+            "author": "V\u00f6lker, Jens and Plum, G. Eric and Gindikin, Vera and Klump, Horst H. and Breslauer, Kenneth J.",
+            "year": "2013",
+            "pages": "439\u2013439"
+        }
+    ],
+    [
+        {
+            "title": "Generation and genetic modification of 3D cultures of human dopaminergic neurons derived from neural progenitor cells",
+            "volume": "56",
+            "ISSN": "1046-2023",
+            "url": "http://dx.doi.org/10.1016/j.ymeth.2012.03.005",
+            "number": "3",
+            "journal": "Methods",
+            "publisher": "Elsevier BV",
+            "author": "Brito, Catarina and Sim\u00e3o, Daniel and Costa, In\u00eas and Malpique, Rita and Pereira, Cristina I. and Fernandes, Paulo and Serra, Margarida and Schwarz, Sigrid C. and Schwarz, Johannes and Kremer, Eric J. and Alves, Paula M.",
+            "year": "2012",
+            "pages": "452\u2013460"
+        }
+    ],
+    [
+        {
+            "title": "Microbial population analysis of nutrient removal-related organisms in membrane bioreactors",
+            "volume": "93",
+            "ISSN": "1432-0614",
+            "url": "http://dx.doi.org/10.1007/s00253-011-3499-5",
+            "number": "5",
+            "journal": "Applied Microbiology and Biotechnology",
+            "publisher": "Springer Science and Business Media LLC",
+            "author": "Silva, Ana F. and Carvalho, Gilda and Oehmen, Adrian and Lousada-Ferreira, Maria and van Nieuwenhuijzen, Arjen and Reis, Maria A. M. and Crespo, M. Teresa Barreto",
+            "year": "2011",
+            "pages": "2171\u20132180"
+        }
+    ]
+]
