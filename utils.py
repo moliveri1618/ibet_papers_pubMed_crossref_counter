@@ -59,7 +59,7 @@ def get_DOIs_from_pubMed_IDs(current_year):
 
     print('')
     print('PUBMED DOIs:', len(DOI_array))
-    return DOI_array
+    return DOI_array, len(DOI_array)
 
 
 def get_DOIs_from_crossref(year):
@@ -76,10 +76,10 @@ def get_DOIs_from_crossref(year):
             #print(json_data['message']['items'][i]['DOI'])
 
         print('CROSSREF DOIs: ' + str(len(DOIs)))
-        return DOIs
+        return DOIs, len(DOIs)
     else:
         print("API request failed with status code:", response.status_code)
-        return None
+        return None, 0
     
 
 
@@ -168,10 +168,10 @@ def find_ibet_papers_for_specific_year(year):
     print(f"----------- FINDING PAPERS OF IBET FOR THE YEAR {year}-----------")
 
     # get DOI using PUBMED API
-    pubmed_DOIs = get_DOIs_from_pubMed_IDs(year)
+    pubmed_DOIs, n_pubmed = get_DOIs_from_pubMed_IDs(year)
 
     #get DOI using crossref API
-    crossref_DOIs = get_DOIs_from_crossref(year)
+    crossref_DOIs, n_crossref = get_DOIs_from_crossref(year)
 
     #concat & remove duplicates between pubmed and crossref DOIs array
     DOIs_list = concat_remove_duplicates_arrays(pubmed_DOIs, crossref_DOIs)
@@ -179,7 +179,7 @@ def find_ibet_papers_for_specific_year(year):
     #get papers data from DOI
     papers_data = get_papers_info_from_DOIs(DOIs_list)
 
-    return papers_data
+    return papers_data, n_pubmed, n_crossref
 
 
 def export_data_to_pdf(papers):
